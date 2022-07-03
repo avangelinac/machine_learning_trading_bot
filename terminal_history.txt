@@ -1,0 +1,25 @@
+  451  git push origin main
+  452  cd desktop
+  453  cd machine_learning_trading_bot
+  454  git glone https://github.com/avangelinac/machine_learning_trading_bot.git
+  455  git clone https://github.com/avangelinac/machine_learning_trading_bot.git
+  456  git add .
+  457  cd machine_learning_trading_bot
+  458  git add .
+  459  git commit -m "commit_part_one"
+  460  git push origin main
+  461  cd add .
+  462  git add .
+  463  git commit -m "commit_part_three"
+  464  git push origin main
+  465  cd desktop
+  466  cd machine_learning_trading_bot
+  467  git add .
+  468  git commit -m "commit READ.ME file"
+  469  git push origin main
+  470  git add .
+  471  history 40 > terminal_history.txt
+  472  git commit -m "commit images folder and txt history file"
+  473  git commit -m "commit history and images folder"
+  474  git add .
+  475  history 25 > terminal_history.txt
